@@ -107,6 +107,7 @@ DELETE FROM student
 WHERE marks <=30;
 
 
+
 SELECT * FROM student;
 
 
